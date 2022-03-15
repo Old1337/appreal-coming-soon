@@ -147,6 +147,7 @@ input:focus {
     content: url(../images/hero-desktop.jpg);
     grid-column-start: 2;
     grid-row-start: 1;
+    height: 100%;
   }
 
   .logo {
